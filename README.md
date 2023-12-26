@@ -4,7 +4,7 @@ I'm Ricardo Hernández, a web developer using reactjs in my daily job.
 
 I invest part of my free time learning more about web and cloud technologies.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know more about...
+### I know more about...
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
